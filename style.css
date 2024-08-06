@@ -184,7 +184,7 @@ a.home,a:hover{
 
 @media screen and (max-width: 770px) {
     #banner {
-        height: calc(100vh - 50px);
+        height: 100%;
     }
     .banner-text h1 {
         font-size: 8vw; /* Adjust font size for smaller screens */
